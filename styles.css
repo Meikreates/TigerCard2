@@ -14,7 +14,6 @@ body {
   padding: 0px;
   margin: 30px lightpink;
   box-shadow: 10px 20px lightgray;
-  text-color:white;
 }
 div{ background-color:lightpink;
 }
@@ -22,10 +21,13 @@ div{ background-color:lightpink;
 
 #White-Tiger {
   font-size: 30px;
-  text-align: left;
+  text-align: center;
   font-weight: bold;
+  background-color: lightpink;
 }
-
+h1{
+  background-color: lightpink;
+}
 img { width:350px;
   height:300px;
   padding:0px;
@@ -38,6 +40,7 @@ text-align:left;
   padding: 0px;
   margin: 0px;
   font-size:18px;
+  ;
   
 }
 .italic{ font-style: Italic;}
@@ -49,6 +52,7 @@ ul{
  }
 span{ font-weight:bold;
   font-size:18px;
+  background-color: lightpink;
 
 }
 li { font-size:18px;
