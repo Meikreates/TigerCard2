@@ -1,0 +1,57 @@
+.box {
+  border: 1px solid black;
+  padding: 40px;
+  text-align: left;
+  list-style: none;
+  background-color:lightblue;
+  margin: 10px lightpink;
+}
+body {
+  width: 350px;
+  border: 1px solid black;
+  border-width:20px;
+  border-color:lightpink;
+  padding: 0px;
+  margin: 30px lightpink;
+  box-shadow: 10px 20px lightgray;
+  text-color:white;
+}
+div{ background-color:lightpink;
+}
+
+
+#White-Tiger {
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
+
+img { width:350px;
+  height:300px;
+  padding:0px;
+  background-color:lightpink;
+
+}
+p {
+text-align:left;
+   width: 300px;
+  padding: 0px;
+  margin: 0px;
+  font-size:18px;
+  
+}
+.italic{ font-style: Italic;}
+
+ul{
+  list-style: none;
+  text-align:left;
+  padding:2px
+ }
+span{ font-weight:bold;
+  font-size:18px;
+
+}
+li { font-size:18px;
+
+}
+
